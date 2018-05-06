@@ -1,0 +1,160 @@
+#u972
+{
+	-webkit-transform: matrix(0.7314,-0.682,0.682,0.7314,-7,16);
+	-ms-transform: matrix(0.7314,-0.682,0.682,0.7314,-7,16);
+	transform: matrix(0.7314,-0.682,0.682,0.7314,-7,16);
+	position: relative;
+	background: transparent url("../images/facebook-u1152-fr.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u973
+{
+	-webkit-transform: matrix(0.6947,-0.7193,0.7193,0.6947,-7,17);
+	-ms-transform: matrix(0.6947,-0.7193,0.7193,0.6947,-7,17);
+	transform: matrix(0.6947,-0.7193,0.7193,0.6947,-7,17);
+	position: relative;
+	background: transparent url("../images/instagram-u1153-fr.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u979
+{
+	-webkit-transform: matrix(0.682,-0.7314,0.7314,0.682,-7,18);
+	-ms-transform: matrix(0.682,-0.7314,0.7314,0.682,-7,18);
+	transform: matrix(0.682,-0.7314,0.7314,0.682,-7,18);
+	position: relative;
+	background: transparent url("../images/youtube-u1154-fr.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u980
+{
+	-webkit-transform: matrix(0.682,-0.7314,0.7314,0.682,-7,18);
+	-ms-transform: matrix(0.682,-0.7314,0.7314,0.682,-7,18);
+	transform: matrix(0.682,-0.7314,0.7314,0.682,-7,18);
+	position: relative;
+	background: transparent url("../images/twiter-u1155-fr.png") no-repeat left top;
+	background-size: cover;
+}
+
+#u659,#u127,#u140,#u141
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u141:hover
+{
+	background: transparent url("../images/menu_hover.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u172,#u173
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u173:hover
+{
+	background: transparent url("../images/menu_hover.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u200,#u201
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u201:hover
+{
+	background: transparent url("../images/menu_hover.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u193,#u194
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u194:hover
+{
+	background: transparent url("../images/menu_hover.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u186,#u187
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u187:hover
+{
+	background: transparent url("../images/menu_hover.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u179,#u180
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u180:hover
+{
+	background: transparent url("../images/menu_hover.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u141.MuseMenuActive,#u173.MuseMenuActive,#u201.MuseMenuActive,#u194.MuseMenuActive,#u187.MuseMenuActive,#u180.MuseMenuActive
+{
+	background: transparent url("../images/menu_ativo.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u144-4,#u175-4,#u204-4,#u197-4,#u190-4,#u183-4
+{
+	position: relative;
+}
+
+#u144-4_clip,#u175-4_clip,#u204-4_clip,#u197-4_clip,#u190-4_clip,#u183-4_clip
+{
+	overflow: hidden;
+	vertical-align: top;
+}
+
+#u144-4_img,#u175-4_img,#u204-4_img,#u197-4_img,#u190-4_img,#u183-4_img
+{
+	display: block;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#menuu139,#u1268
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u125
+{
+	position: relative;
+	background: transparent url("../images/banner_ad.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u1164,#u1103
+{
+	background-color: transparent;
+	position: relative;
+}
+

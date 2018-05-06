@@ -1,0 +1,392 @@
+.version.sobre /* version checker */
+{
+	color: #00000B;
+	background-color: #8EB2ED;
+}
+
+.html
+{
+	background: #7F7F7F url("../images/pattern8.jpg") repeat left top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1064px;
+	min-height: 767.0439024390244px;
+	border-style: none;
+	border-color: #000000;
+	padding-bottom: 1px;
+	margin-left: auto;
+	margin-right: auto;
+	background: transparent url("../images/background_02.png") no-repeat left top;
+}
+
+#page_position_content
+{
+	padding-top: 8px;
+	padding-bottom: 1px;
+	width: 0.01px;
+}
+
+#pu659
+{
+	width: 0.01px;
+	padding-bottom: 5px;
+	margin-left: 6px;
+}
+
+#u659
+{
+	z-index: 41;
+	width: 373px;
+	margin-right: -10000px;
+	left: 565px;
+}
+
+#u972
+{
+	z-index: 43;
+	width: 34px;
+	height: 34px;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 85px;
+}
+
+#u973
+{
+	z-index: 44;
+	width: 34px;
+	height: 34px;
+	margin-right: -10000px;
+	margin-top: 88px;
+	left: 32px;
+}
+
+#u979
+{
+	z-index: 45;
+	width: 34px;
+	height: 34px;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 59px;
+}
+
+#u980
+{
+	z-index: 46;
+	width: 34px;
+	height: 34px;
+	margin-right: -10000px;
+	margin-top: 115px;
+	left: 7px;
+}
+
+#pu127
+{
+	width: 0.01px;
+	margin-left: 482px;
+	margin-top: -7px;
+}
+
+#u127
+{
+	z-index: 2;
+	width: 585px;
+	margin-right: -10000px;
+}
+
+#menuu139
+{
+	z-index: 4;
+	width: 468px;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 55px;
+}
+
+#u140
+{
+	width: 54px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u141
+{
+	width: 54px;
+	padding-bottom: 17px;
+}
+
+#u141:hover
+{
+	width: 54px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u141.MuseMenuActive
+{
+	width: 54px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u144-4_clip
+{
+	width: 49px;
+	height: 17px;
+}
+
+#u172
+{
+	width: 58px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 56px;
+}
+
+#u173
+{
+	width: 58px;
+	padding-bottom: 17px;
+}
+
+#u173:hover
+{
+	width: 58px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u173.MuseMenuActive
+{
+	width: 58px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u175-4_clip
+{
+	width: 54px;
+	height: 17px;
+}
+
+#u200
+{
+	width: 86px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 116px;
+}
+
+#u201
+{
+	width: 86px;
+	padding-bottom: 17px;
+}
+
+#u201:hover
+{
+	width: 86px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u193
+{
+	width: 86px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 204px;
+}
+
+#u194
+{
+	width: 86px;
+	padding-bottom: 17px;
+}
+
+#u201.MuseMenuActive,#u194:hover
+{
+	width: 86px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u194.MuseMenuActive
+{
+	width: 86px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u204-4_clip,#u197-4_clip
+{
+	width: 82px;
+	height: 17px;
+}
+
+#u186
+{
+	width: 94px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 292px;
+}
+
+#u187
+{
+	width: 94px;
+	padding-bottom: 17px;
+}
+
+#u187:hover
+{
+	width: 94px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u187.MuseMenuActive
+{
+	width: 94px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u190-4_clip
+{
+	width: 90px;
+	height: 17px;
+}
+
+#u179
+{
+	width: 80px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 388px;
+}
+
+#u180
+{
+	width: 80px;
+	padding-bottom: 17px;
+}
+
+#u180:hover
+{
+	width: 80px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u180.MuseMenuActive
+{
+	width: 80px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u183-4_clip
+{
+	width: 76px;
+	height: 17px;
+}
+
+#u144-4,#u175-4,#u204-4,#u197-4,#u190-4,#u183-4
+{
+	margin-right: -10000px;
+	top: 8px;
+	left: 2px;
+}
+
+#u288-4
+{
+	z-index: 53;
+	display: block;
+	vertical-align: top;
+	margin-left: 549px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u291-10
+{
+	z-index: 57;
+	display: block;
+	vertical-align: top;
+	margin-left: 549px;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u296
+{
+	z-index: 68;
+	margin-left: 549px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u296_states
+{
+	height: 17px;
+	width: 184px;
+	vertical-align: top;
+	background: url("../images/u296_states.png") no-repeat 0px 0px;
+}
+
+#u296:hover #u296_states
+{
+	background: url("../images/u296_states-r.png") no-repeat 0px 0px;
+}
+
+#u1268
+{
+	z-index: 49;
+	width: 1016px;
+	margin-left: 22px;
+	margin-top: 90px;
+}
+
+#u1164
+{
+	z-index: 51;
+	width: 12px;
+	margin-right: -10000px;
+	margin-top: 12px;
+}
+
+#u125
+{
+	z-index: 50;
+	width: 1000px;
+	height: 75px;
+	margin-right: -10000px;
+	left: 16px;
+}
+
+#u1103
+{
+	z-index: 47;
+	width: 192px;
+	margin-left: 450px;
+	top: -3px;
+	margin-bottom: -3px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1064px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

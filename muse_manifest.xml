@@ -1,0 +1,160 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="trajeto_alternativo.html" resolutions="1x" timestamp="1465695174455">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-mestre.css" crc="502983234" ref="equipe:p-t:zona-sul:contato:trajetos:servicos:trupe-de-choque:teatro:sobre:parceiros"/>
+    <file name="master_b-mestre.css" crc="3772008116" ref="p-t:zona-sul:trajetos:teatro"/>
+    <file name="equipe.css" crc="373346622" ref="equipe"/>
+    <file name="p-t.css" crc="3866703515" ref="p-t"/>
+    <file name="zona-sul.css" crc="140615693" ref="zona-sul"/>
+    <file name="contato.css" crc="279292396" ref="contato"/>
+    <file name="trajetos.css" crc="3851486165" ref="trajetos"/>
+    <file name="servicos.css" crc="20145772" ref="servicos"/>
+    <file name="trupe-de-choque.css" crc="3982704579" ref="trupe-de-choque"/>
+    <file name="teatro.css" crc="404228742" ref="teatro"/>
+    <file name="sobre.css" crc="193901293" ref="sobre"/>
+    <file name="index.css" crc="4290129835" ref="index"/>
+    <file name="parceiros.css" crc="258325382" ref="parceiros"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="museutils.js" crc="275725342" ref="index:sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:sobre:trupe-de-choque"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="pie.js" crc="3827607177" ref="trupe-de-choque:contato"/>
+    <file name="webpro.js" crc="3883484123" ref="trupe-de-choque:contato"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="trupe-de-choque"/>
+    <file name="form_check.php" crc="3932029206" ref="contato"/>
+    <file name="form_throttle.php" crc="314685628" ref="contato"/>
+    <file name="form_process.php" crc="401030677" ref="contato"/>
+    <file name="form-u560.php" crc="350952823" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="pattern8.jpg" crc="4048140293" ref="index:sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="background2.png" crc="453523069" ref="index"/>
+    <file name="facebook-u1152-fr.png" crc="4262463283" ref="index:sobre"/>
+    <file name="instagram-u1153-fr.png" crc="4007403580" ref="index:sobre"/>
+    <file name="youtube-u1154-fr.png" crc="4243971990" ref="index:sobre"/>
+    <file name="twiter-u1155-fr.png" crc="304522361" ref="index:sobre"/>
+    <file name="manchas.png" crc="475162987" seo="true" ref="index"/>
+    <file name="linhas_menu_home.png" crc="168323645" seo="true" ref="index"/>
+    <file name="menu_hover.png" crc="4207769791" ref="index:sobre"/>
+    <file name="u717-4.png" crc="4015133732" ref="index"/>
+    <file name="u725-4.png" crc="519361989" ref="index"/>
+    <file name="u696-4.png" crc="4058319933" ref="index"/>
+    <file name="u704-4.png" crc="3771525168" ref="index"/>
+    <file name="u710-4.png" crc="379680105" ref="index"/>
+    <file name="publicidade.png" crc="329697892" seo="true" ref="index:sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="banner_ad.jpg" crc="4173100775" ref="index:sobre"/>
+    <file name="copyright.png" crc="4170610728" seo="true" ref="index:sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="background_02.png" crc="509612694" ref="sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="logo_temporario.png" crc="3873631621" seo="true" ref="sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="linhas_menu.png" crc="126312690" seo="true" ref="sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="menu_ativo.png" crc="3867591169" ref="sobre"/>
+    <file name="u144-4.png" crc="225399911" ref="sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="u175-4.png" crc="58274308" ref="sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="u204-4.png" crc="46791187" ref="sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="u197-4.png" crc="340787143" ref="sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="u190-4.png" crc="292376301" ref="sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="u183-4.png" crc="3962047991" ref="sobre:equipe:trajetos:servicos:trupe-de-choque:parceiros:contato:zona-sul:teatro:p-t"/>
+    <file name="u288-4.png" crc="426276371" ref="sobre"/>
+    <file name="u291-10.png" crc="4008203828" ref="sobre"/>
+    <file name="blank.gif" crc="4208392903" ref="sobre:trajetos:trupe-de-choque:contato:zona-sul:teatro:p-t"/>
+    <file name="u296_states.png" crc="3850587966" ref="sobre"/>
+    <file name="u296_states-r.png" crc="208384117" ref="sobre"/>
+    <file name="u302-4.png" crc="4290169887" ref="equipe"/>
+    <file name="foto_guttho.png" crc="3847149323" ref="equipe"/>
+    <file name="foto_guttho_hover.png" crc="3887291024" ref="equipe"/>
+    <file name="foto_leticia.png" crc="323385966" ref="equipe"/>
+    <file name="foto_leticia_hover.png" crc="4281732744" ref="equipe"/>
+    <file name="foto_samuel.png" crc="4032974424" ref="equipe"/>
+    <file name="foto_samuel_hover.png" crc="4093916030" ref="equipe"/>
+    <file name="foto_victor.png" crc="4199796908" ref="equipe"/>
+    <file name="foto_victor_hover.png" crc="217492246" ref="equipe"/>
+    <file name="u808-4.png" crc="381279588" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u777-4.png" crc="3806711136" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u812.png" crc="3862670123" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u812-r.png" crc="4062833870" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u818.png" crc="4044001642" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u818-r.png" crc="4268767407" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u827.png" crc="80085417" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u827-r.png" crc="275752385" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u835.png" crc="144308719" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u835-r.png" crc="3850896858" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u805-4.png" crc="3783578729" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u840.png" crc="3799501761" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u840-r.png" crc="324196334" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u848.png" crc="407340901" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u848-r.png" crc="147721159" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u857.png" crc="162523778" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u857-r.png" crc="365602539" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u860.png" crc="3837517928" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u860-r.png" crc="104712885" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u869.png" crc="169870602" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u869-r.png" crc="4120885694" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u876.png" crc="281451081" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u876-r.png" crc="3885250592" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u798-4.png" crc="218881543" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u882.png" crc="4196496742" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u882-r.png" crc="535310117" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u888.png" crc="230277963" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u888-r.png" crc="4110562462" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u897.png" crc="4080140152" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u897-r.png" crc="3963119875" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u904.png" crc="180131274" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u904-r.png" crc="439343735" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u910.png" crc="4213191086" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="u910-r.png" crc="310576677" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="trupe.png" crc="266118059" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="trupe_hover.png" crc="239696471" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="embreve.jpg" crc="4208586972" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="embreve_hover.jpg" crc="228854846" ref="trajetos:zona-sul:teatro:p-t"/>
+    <file name="assessoria.png" crc="4180465788" ref="servicos"/>
+    <file name="assessoria_hover.png" crc="233209125" ref="servicos"/>
+    <file name="u501-5.png" crc="4103831266" ref="servicos"/>
+    <file name="linha_delimita.png" crc="4231150086" seo="true" ref="servicos:trupe-de-choque"/>
+    <file name="pecas.png" crc="4047600550" ref="servicos"/>
+    <file name="pecas_hover.png" crc="55064026" ref="servicos"/>
+    <file name="u502-4.png" crc="4248233375" ref="servicos"/>
+    <file name="u312-4.png" crc="336374056" ref="trupe-de-choque"/>
+    <file name="u392.png" crc="3997447804" ref="trupe-de-choque"/>
+    <file name="u392-r.png" crc="3871524522" ref="trupe-de-choque"/>
+    <file name="u392-a.png" crc="3871524522" ref="trupe-de-choque"/>
+    <file name="u396.png" crc="138018539" ref="trupe-de-choque"/>
+    <file name="u396-r.png" crc="10433499" ref="trupe-de-choque"/>
+    <file name="u396-a.png" crc="10433499" ref="trupe-de-choque"/>
+    <file name="u400.png" crc="4238572270" ref="trupe-de-choque"/>
+    <file name="u400-r.png" crc="294204674" ref="trupe-de-choque"/>
+    <file name="u400-a.png" crc="294204674" ref="trupe-de-choque"/>
+    <file name="u413-4.png" crc="100548921" ref="trupe-de-choque"/>
+    <file name="u381-8.png" crc="4265473618" ref="trupe-de-choque"/>
+    <file name="u414-4.png" crc="4263874874" ref="trupe-de-choque"/>
+    <file name="telefone-u436-fr.png" crc="325627026" ref="trupe-de-choque"/>
+    <file name="facebook-u443-fr.png" crc="107165042" ref="trupe-de-choque"/>
+    <file name="youtube-u455-fr.png" crc="427514137" ref="trupe-de-choque"/>
+    <file name="u545-4.png" crc="404024131" ref="parceiros"/>
+    <file name="periferia.png" crc="4017094649" seo="true" ref="parceiros"/>
+    <file name="u565.png" crc="4285641328" ref="contato"/>
+    <file name="u565-ferr.png" crc="157961711" ref="contato"/>
+    <file name="u570.png" crc="4088523651" ref="contato"/>
+    <file name="u570-ferr.png" crc="4115345795" ref="contato"/>
+    <file name="u571-17.png" crc="4133604613" ref="contato"/>
+    <file name="u571-17-r.png" crc="4066418047" ref="contato"/>
+    <file name="u571-17-m.png" crc="4066418047" ref="contato"/>
+    <file name="u571-17-fs.png" crc="4091720200" ref="contato"/>
+    <file name="u575.png" crc="287831906" ref="contato"/>
+    <file name="u575-ferr.png" crc="3779327899" ref="contato"/>
+  </folder>
+  <file name="index.html" crc="371347680" seo="true" mt="1464790817944" redirect="true"/>
+  <file name="sobre.html" crc="4135645923" seo="true" mt="1465694967453" redirect="true"/>
+  <file name="equipe.html" crc="527653394" seo="true" mt="1465694967453" redirect="true"/>
+  <file name="trajetos.html" crc="4243762373" seo="true" mt="1465694967453" redirect="true"/>
+  <file name="servicos.html" crc="202912418" seo="true" mt="1465694967453" redirect="true"/>
+  <file name="trupe-de-choque.html" crc="521239560" seo="true" mt="1465695149628" redirect="true"/>
+  <file name="parceiros.html" crc="342292433" seo="true" mt="1465694967453" redirect="true"/>
+  <file name="contato.html" crc="215389830" seo="true" mt="1465694967453" redirect="true"/>
+  <file name="zona-sul.html" crc="4110544119" seo="true" mt="1465694967453" redirect="true"/>
+  <file name="teatro.html" crc="122288672" seo="true" mt="1465694967453" redirect="true"/>
+  <file name="p-t.html" crc="4039458448" seo="true" mt="1465694967453" redirect="true"/>
+</manifest>
